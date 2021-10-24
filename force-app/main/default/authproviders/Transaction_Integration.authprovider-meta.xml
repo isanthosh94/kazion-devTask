@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AuthProvider xmlns="http://soap.sforce.com/2006/04/metadata">
+    <consumerKey>3MVG9zlTNB8o8BA07uSu9tGacEY0zf3QGBSqQZdj8.pNC05pZYHjpv.6OjPU2TqnWmcfiSi.ZqA09VabtPXp.</consumerKey>
+    <consumerSecret>KeinTBVs5efzHav0e6v59BvGHCMSJe4r</consumerSecret>
+    <friendlyName>Transaction Integration</friendlyName>
+    <includeOrgIdInIdentifier>true</includeOrgIdInIdentifier>
+    <providerType>Salesforce</providerType>
+    <sendAccessTokenInHeader>false</sendAccessTokenInHeader>
+    <sendClientCredentialsInHeader>false</sendClientCredentialsInHeader>
+    <sendSecretInApis>true</sendSecretInApis>
+</AuthProvider>
